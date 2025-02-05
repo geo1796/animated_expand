@@ -5,3 +5,6 @@
 - Supports expandable widgets with animations.
 - Allows external control using `ExpandController`.
 - Supports vertical and horizontal expansion.
+
+## 1.0.1
+- Improved documentation

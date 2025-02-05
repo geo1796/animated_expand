@@ -21,7 +21,7 @@ Add this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  animated_expand: 1.0.0
+  animated_expand: 1.0.1
 ```
 
 Then, import the package in your Flutter app:
