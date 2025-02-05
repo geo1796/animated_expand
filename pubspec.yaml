@@ -1,6 +1,6 @@
 name: animated_expand
-description: "A customizable and animated expandable widget for Flutter. `AnimatedExpand` allows you to smoothly expand and collapse UI elements with animations. It supports both **vertical and horizontal** expansion, custom controllers, and fine-tuned animation settings."
-version: 1.0.1
+description: "A customizable and animated expandable widget for Flutter. `AnimatedExpand` allows you to smoothly expand and collapse UI elements with animations."
+version: 1.0.2
 homepage: https://github.com/geo1796/animated_expand
 repository: https://github.com/geo1796/animated_expand
 license: MIT
